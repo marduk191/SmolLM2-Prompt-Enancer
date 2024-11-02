@@ -25,7 +25,7 @@ git clone https://github.com/yourusername/comfyui-smollm2
 
 3. Install the required dependencies:
 ```bash
-pip install transformers torch
+pip install -r requirements.txt
 ```
 
 The model will be automatically downloaded when you first use the node.
