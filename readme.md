@@ -62,7 +62,7 @@ The node provides several parameters to control text generation:
 
 ## Usage
 
-After installation, you'll find the "molLM2S Text Generator" node in the "marduk191/SmolLM2-Prompt-Enhance" category of ComfyUI's node menu.
+After installation, you'll find the "SmolLM2S Text Generator" node in the "marduk191/SmolLM2-Prompt-Enhance" category of ComfyUI's node menu.
 
 ### Basic Workflow
 
