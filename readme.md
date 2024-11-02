@@ -20,7 +20,8 @@ cd ComfyUI/custom_nodes/
 
 2. Clone this repository:
 ```bash
-git clone https://github.com/marduk191/comfyui-smollm2
+git clone https://github.com/marduk191/SmolLM2-Prompt-Enancer
+
 ```
 
 3. Install the required dependencies:
